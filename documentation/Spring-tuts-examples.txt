@@ -1,0 +1,72 @@
+Spring tuts
+
+#### documentation ####
+
+Spring MVC and AngularJS CRUD
+
+- http://websystique.com/springmvc/spring-4-mvc-angularjs-crud-application-using-ngresource/
+
+Spring MVC Validation
+
+- https://spring.io/guides/gs/validating-form-input/
+
+Spring MVC and File Uploads
+
+- https://spring.io/guides/gs/uploading-files/
+
+Spring RESTful web services
+
+- https://spring.io/guides/gs/rest-service/
+
+Spring Security for Web Apps
+
+- https://spring.io/guides/gs/securing-web/
+
+Spring and Facebook
+
+- https://spring.io/guides/gs/accessing-facebook/
+
+Spring and Twitter
+
+- https://spring.io/guides/gs/accessing-twitter/
+
+
+
+##### Here are some sample Spring projects you can look at. #####
+
+They are of moderate size complexity
+
+Project Sagan
+This is a real-world app that powers the Spring.io website. It is in production and used by thousands of users each day.
+
+You can get information about the project and get source code here:
+- https://github.com/spring-io/sagan/wiki
+
+---
+
+Here is a realworld HealthCare platform
+- https://healthservices.atlassian.net/wiki/display/HSPC/Java+Client+Tutorial%3A+Spring+MVC
+
+---
+
+Spring Petstore Example
+
+This is an example project for the classic PetClinic / PetStore example.
+https://github.com/spring-projects/spring-petclinic
+
+---
+
+Here are some links for Spring and Angular Tutorials
+
+I couldn't find anything in terms of real world. But there are plenty tutorials
+
+- https://www.google.com/search?q=springmvc+angularjs+tuorials&ie=utf-8&oe=utf-8#q=springmvc+angularjs+tutorials
+
+---
+
+OpenSource Projects Using Spring
+
+Access real-world projects that make use of Spring code
+- http://www.programcreek.com/2012/08/open-source-projects-that-use-spring-framework/
+
+---
